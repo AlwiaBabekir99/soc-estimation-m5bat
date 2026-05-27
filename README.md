@@ -32,7 +32,7 @@ A classical particle filter with a Thévenin equivalent circuit model is also in
 | | CNN | 1.34 ± 0.13 | 1.78 ± 0.11 |
 | Transfer learning (5 days of LTO data) | CNN‑LSTM | 1.87 | 2.41 |
 | Transfer learning (15 days of LTO data) | CNN‑LSTM | 1.36 | 1.76 |
-| Particle filter (literature params) | – | 9.38 | – |
+| Particle filter (literature params) | – | 3.18 | – |
 
 *Direct training results are averaged over 5 random seeds.*
 
